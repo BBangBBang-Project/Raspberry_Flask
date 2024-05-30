@@ -1,4 +1,4 @@
-# 👵🏻 BBangBBang_Raspberry_Flask 🤖
+# 🍞 BBangBBang_Raspberry_Flask 🥐
 
 > 2024 HSU Capstone AI를 활용한 키오스크와 스마트 빵 자판기 - BBangBBang 의 Flask Server입니다.
 
